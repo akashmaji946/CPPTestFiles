@@ -1,3 +1,9 @@
+/*
+Date: 22 June 2020
+Author: Akash Maji
+Program: To find the fibonacci sequence number of a given idex(not to be large)
+*/
+
 #include<iostream>
 using namespace std;
 
