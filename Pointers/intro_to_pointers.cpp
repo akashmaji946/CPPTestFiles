@@ -32,6 +32,7 @@ int main(void){
     // to get character address typecasting is needed
     cout << (void*)p_ch << endl;
   
+  
   return 0;
 }
 
